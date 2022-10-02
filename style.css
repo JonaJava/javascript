@@ -1,0 +1,44 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+header{
+    text-align: center;
+}
+
+header p{
+    font-size: 1.05em;
+    color:gray;
+    margin-bottom: 70px;
+}
+
+.cards{
+    border:1px solid;
+    border-radius: 8px;
+    background-color: aquamarine;
+    box-shadow: 3px 10px 10px aquamarine;
+    margin-bottom: 30px;
+    min-width: 310px;
+    max-width: 500px;
+    height: 222px;
+    overflow: hidden;
+}
+
+.card1 .line{
+    background-color: blue;
+    height: 4px;
+}
+.card2 .line{
+    background-color: orange;
+    height: 4px;
+}
+.card3 .line{
+    background-color: red;
+    height: 4px;
+}
+.card4 .line{
+    background-color:green;
+    height: 4px;
+}
+
+
+
